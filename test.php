@@ -1,6 +1,6 @@
 <?php 
 
-echo 'This is test jenkins page';
+echo 'This is test jenkins page'
 exit;
 
 ?>
